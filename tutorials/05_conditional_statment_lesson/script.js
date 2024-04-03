@@ -67,3 +67,6 @@ switch (light) {
         console.log("The light is not green, orange, or red");
         break;
 }
+
+
+
